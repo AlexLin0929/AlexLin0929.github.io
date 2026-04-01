@@ -61,25 +61,7 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "alexlin99",
 	bio: "小小國三競程選手：）\n在這裡發廢文 zzz",
-	links: [
-		{
-			name: "Codeforces",
-			icon: "simple-icons:codeforces", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://codeforces.com/profile/alexlin99",
-		},
-		{
-			name: "Atcoder",
-			icon: "/assets/images/atcoder.png",
-			url: "https://atcoder.jp/users/alexlin99",
-		},
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/AlexLin0929",
-		},
-	],
+	links: [],
 };
 
 export const licenseConfig: LicenseConfig = {
