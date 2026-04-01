@@ -2,10 +2,10 @@ import Key from "../i18nKey";
 import type { Translation } from "../translation";
 
 export const zh_TW: Translation = {
-	[Key.home]: "首頁",
-	[Key.about]: "關於",
-	[Key.archive]: "彙整",
-	[Key.search]: "搜尋",
+	[Key.home]: "廢文列表",
+	[Key.about]: "關於我…",
+	[Key.archive]: "時間軸",
+	[Key.search]: "搜點什麼……",
 
 	[Key.tags]: "標籤",
 	[Key.categories]: "分類",
