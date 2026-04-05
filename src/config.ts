@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "阿巴阿巴",
 	lang: "zh_TW", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
-		hue: 190, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: true, // Hide the theme color picker for visitors
 	},
 	banner: {
@@ -60,7 +60,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "alexlin99",
-	bio: "小小國三競程選手：）\n在這裡發廢文 zzz",
+	bio: "小小國三競程選手：）<br>在這裡發廢文 zzz",
 	links: [],
 };
 
